@@ -1,7 +1,7 @@
-SANJAY KUMAR MAHAPATRA
+**SANJAY KUMAR MAHAPATRA
 Pune
 mahapatra.sanjay@gmail.com
-+91-9168693220
++91-9168693220**
 
 
 Dear Hiring Manager,
