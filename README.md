@@ -6,11 +6,11 @@ Steps:
 3.	Install ArgoCD –Done 
 4.	CICD Pipeline using GitHub Actions on Push –Done 
 5.	Static Code Analysis using Sonarqube -Done
-6.	Sercurity Scan using Trivy
-7.	Build Docker Image
-8.	Push to Image registry
-9.	Define Deploymebt Evnironments
-10.	Auto Sync via ArgoCD
+6.	Sercurity Scan using Trivy -Done
+7.	Build Docker Image -Done
+8.	Push to Image registry -Done
+9.	Define Deploymebt Evnironments -Done
+10.	Auto Sync via ArgoCD -Done
 Flow
 Workflow:
 1.	Dev pushes code → triggers pipeline 
